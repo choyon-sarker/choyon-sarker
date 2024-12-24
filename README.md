@@ -1,6 +1,6 @@
 ## Hi there 👋
 👨🏻‍🎓 I’m Choyon Sarker, a final-year Computer Science and Engineering (CSE) student at Jahangirnagar University, Dhaka, Bangladesh.
-💻 I’m passionate about Android development, with expertise in Kotlin and the MVVM architecture.
+- 💻 I’m passionate about Android development, with expertise in Kotlin and the MVVM architecture.
 
 - 🔭 Currently working on Andorid Development Projects :
 A supershop management system as part of my software engineering project.
@@ -17,7 +17,7 @@ Advanced unit testing with JUnit 5.
 - 📫 How to reach me: Message me on LinkedIn or Facebook
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love Code
-🎯 My goal is to solve real-life problems through innovative tech solutions.
+- 🎯 My goal is to solve real-life problems through innovative tech solutions.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/choyon.sarker.731562) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ch_oyo_n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/choyon-sarker-98998618b)
