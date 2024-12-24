@@ -14,7 +14,7 @@ Advanced unit testing with JUnit 5.
 - 👯 I’m looking to collaborate on Andorid Development Project
 - 🤔 I’m looking for help with Andorid Development
 - 💬 Ask me about ndorid Development and Software Engineering Concepts.
-- 📫 How to reach me: Email 'choyon.stu392@gmail.com'
+- 📫 How to reach me: Message me on LinkedIn or Facebook
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love Code
 🎯 My goal is to solve real-life problems through innovative tech solutions.
